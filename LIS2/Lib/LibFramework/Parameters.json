@@ -7,7 +7,7 @@
 		},
 		{
 			"name": "Browser",
-			"defaultValue": "Selenium - Chrome",
+			"defaultValue": "Selenium - ChromeHeadless",
 			"type": "browser",
 			"description": "Please, specify browser type to use"
 		}
