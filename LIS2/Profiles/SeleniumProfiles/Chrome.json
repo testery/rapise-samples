@@ -57,7 +57,7 @@
     "cleanSession": ""
   },
   "Chrome Specific": {
-    "args": "",
+    "args": "[\"--no-sandbox\"]",
     "binary": "",
     "extensions": "",
     "localState": "",

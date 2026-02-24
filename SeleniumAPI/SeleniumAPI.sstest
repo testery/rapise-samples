@@ -57,7 +57,7 @@
   </TestFiles>
   <CustomStrings />
   <TestParams>
-    <TestParam name="Browser" variable="g_browserLibrary" defaultValue="Selenium - ChromeHeadless" description="Please, specify browser type to use" output="false" ask="false">
+    <TestParam name="Browser" variable="g_browserLibrary" defaultValue="Selenium - Chrome" description="Please, specify browser type to use" output="false" ask="false">
       <PossibleValues>
         <string>Internet Explorer HTML</string>
         <string>Firefox HTML</string>
