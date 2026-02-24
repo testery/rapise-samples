@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "rapise": "https://inflectra-rapise-nightly-installers.s3.eu-north-1.amazonaws.com/Rapise_8.6.34.40/rapise-8.6.34.40.tgz"
+  }
+}

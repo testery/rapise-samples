@@ -5,3 +5,17 @@ Reports
 *.tap
 Repository.json
 record.cmd
+play.cmd
+*.bak
+idetasks.json
+
+# Node
+node_modules/
+package-lock.json
+
+# Build artifacts
+*.tgz
+rapise-*/
+
+# Screenshots
+*.png
